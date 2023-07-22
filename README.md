@@ -6,6 +6,10 @@
 
 - Efficientnet-b0(Pretrained)
 
+## Dataset :
+
+- [Kaggle Deepfake Detection Challenge](https://www.kaggle.com/competitions/deepfake-detection-challenge/data)
+
 ## Parameters:
 
 - Optimizer: Adam
